@@ -1,1 +1,1 @@
-print("hello cuit")
+print("hello swpu")
